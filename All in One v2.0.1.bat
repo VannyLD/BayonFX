@@ -1,0 +1,13 @@
+@echo off
+echo Closing current application...
+taskkill /IM "BayonFX.Pro.v2.0.1.exe" /F
+timeout /t 2 /nobreak
+
+echo Downloading new version...
+powershell -Command "(New-Object System.Net.WebClient).DownloadFile('https://github.com/VannyLD/MaxStudio/releases/download/v1.2.4/BayonFX.Pro.v2.0.1.exe', 'BayonFX.Pro.v2.0.1.exe')"
+
+echo Starting new version...
+start BayonFX.Pro.v2.0.1.exe
+
+echo Cleaning up...
+del "%~f0"
