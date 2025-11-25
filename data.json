@@ -328,5 +328,11 @@
     "name": "Tntools",
     "date": "2025-11-20",
     "end_date": "2026-03-02"
+  },
+  {
+    "id": "6DD56DDA1DC903240F8242FD6892B66F7050986245E5CD8E2D0BDA418BA83D5E",
+    "name": "DOM",
+    "date": "2025-11-25",
+    "end_date": "2026-01-01"
   }
 ]
