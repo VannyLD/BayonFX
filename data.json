@@ -388,5 +388,11 @@
     "name": "SYD ADMIN",
     "date": "2025-10-05",
     "end_date": "2077-07-07"
+  },
+  {
+    "id": "2B41D5B04D86A091D77971ACBCA355C23A215AF33462E3283AF7321E6D487519",
+    "name": "SYD Admin",
+    "date": "2025-12-08",
+    "end_date": "2026-01-09"
   }
 ]
