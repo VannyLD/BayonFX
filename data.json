@@ -436,5 +436,11 @@
     "name": "Dev Max Tool Paid",
     "date": "2025-12-16",
     "end_date": "2097-07-07"
+  },
+  {
+    "id": "CEDCF99B23D571FD4C739B7CAAA4B43E7902F09EFB03D6841ABDDF9D3D2D8D24",
+    "name": "SAM",
+    "date": "2025-12-16",
+    "end_date": "2090-12-16"
   }
 ]
