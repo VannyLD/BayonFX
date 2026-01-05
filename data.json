@@ -658,5 +658,11 @@
     "name": "Net",
     "date": "2026-01-02",
     "end_date": "2026-02-03"
+  },
+  {
+    "id": "1BEA34011D6F276DB86F7ADC7A49B6ACDF95E19929E151F6AF2FAA7AFB4CF0AC",
+    "name": "Pov",
+    "date": "2026-01-05",
+    "end_date": "2026-01-13"
   }
 ]
