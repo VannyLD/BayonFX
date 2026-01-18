@@ -844,5 +844,11 @@
     "name": "Se7en168 FX",
     "date": "2026-01-18",
     "end_date": "2028-01-18"
+  },
+  {
+    "id": "85D17FA9F949BC65D96A2288615356BC4B239D75337A1AFA4CCDCDBAC90110DF",
+    "name": "Dev BayonFX",
+    "date": "2026-01-18",
+    "end_date": "2026-02-19"
   }
 ]
