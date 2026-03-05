@@ -1,4 +1,10 @@
-Version:1.0
-Title:BayonFX v1.0
-Status: - Update new Ui, - Add Funtions, - Add New Voice
-Last update:March-05-2026
+{
+  "Version": "1.0",
+  "Title": "BayonFX v1.0",
+  "Status": [
+    "Update new Ui",
+    "Add Funtions",
+    "Add New Voice"
+  ],
+  "Last update": "March-05-2026"
+}
