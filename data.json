@@ -1138,5 +1138,11 @@
     "name": "Veasna TV",
     "date": "2026-02-06",
     "end_date": "2026-03-31"
+  },
+  {
+    "id": "021B83EA65F00291C1C94BF6FE499B7DA62995FC1D248F83ABFF527D0390CDBE",
+    "name": "DevMaxTools",
+    "date": "2025-06-25",
+    "end_date": "2026-03-31"
   }
 ]
