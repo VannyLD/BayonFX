@@ -1288,5 +1288,11 @@
     "name": "Free Test",
     "date": "2026-03-12",
     "end_date": "2026-03-30"
+  },
+  {
+    "id": "8973A6AAB4C198D4999E3E39019C0062F0CAEC6389F8C25F282AB26BDAD0CA88",
+    "name": "FREE USER",
+    "date": "2026-03-12",
+    "end_date": "2026-03-30"
   }
 ]
