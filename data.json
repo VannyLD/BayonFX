@@ -1282,5 +1282,11 @@
     "name": "Alone Only - Free",
     "date": "2026-03-09",
     "end_date": "2026-03-26"
+  },
+  {
+    "id": "D4BD1AC13C56AE4DF553FBB672637B97C4460578BFCFFDBF59DC2708E8B6E33E",
+    "name": "Free Test",
+    "date": "2026-03-12",
+    "end_date": "2026-03-30"
   }
 ]
