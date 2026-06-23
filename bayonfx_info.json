@@ -1,7 +1,9 @@
 {
-  "Version": "3.7.0",
+  "Version": "4.0.0",
   "Title": "BayonFX",
   "Status": [
+    "✅ Clone Voice",
+    "✅ Ai Gemini",
     "✅ Update new Ui",
     "✅ Add Funtions",
     "✅ Add New Voice",
@@ -15,5 +17,5 @@
     "✅ Add Subtitles",
     "✅ Export Srt"
   ],
-  "Last update": "March-07-2026"
+  "Last update": "June-23-2026"
 }
