@@ -1462,5 +1462,11 @@
     "name": "10 Days",
     "date": "2026-08-07",
     "end_date": "2026-08-18"
+  },
+  {
+    "id": "FD67C3BFBD72EFEA64C7D44E176A249428727700BE56EB9556B92316C1D8BDBE",
+    "name": "Dev Max Tools",
+    "date": "2026-08-08",
+    "end_date": "2026-11-08"
   }
 ]
